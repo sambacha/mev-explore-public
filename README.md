@@ -1,9 +1,5 @@
 
-<div align="center">
-
 # ⚡️🤖 MEV-Explore
-
-</div>
 
 ![](https://rawcdn.githack.com/sambacha/mev-explore-public/b72dcb655f54950f81625f4ede6ca515d2a3a1ab/mev_explore_meme.png)
 
@@ -69,6 +65,5 @@ As a user of MEV-Explore, help us improve it by suggesting new visualizations an
 * [MEV-Inspect Rust codebase](https://github.com/flashbots/mev-inspect-rs)
 * [Flashbots PM repo](https://github.com/flashbots/pm)
 * [Flashbots Discord](https://discord.gg/7hvTycdNcK)
-
 
 ⚡️🤖
